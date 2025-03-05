@@ -1,0 +1,9 @@
+{
+    "path_to_server_build": "M:\\Downloads\\WindowsServer_AO\\WindowsServer\\Wandering_Souls.exe",
+    "game_levels":
+    {
+    "ThirdPersonMap": {"required_players": 2, "waiting_players": []},
+    "Map2": {"required_players": 1, "waiting_players": []}
+    },
+    "server_port": 8888
+}
